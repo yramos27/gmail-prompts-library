@@ -1,6 +1,6 @@
 # Gmail Prompts Library
 
-High-performance AI prompts designed to optimize your Gmail workflow. Developed by **Yaqui Ramos AI** under the HumAI Tech ecosystem.
+High-performance AI prompts designed to optimize your Gmail workflow. Developed by **Yaqui Ramos AI**.
 
 ## Methodology
 Each prompt in this library follows the proprietary 3-Layer Architecture:
